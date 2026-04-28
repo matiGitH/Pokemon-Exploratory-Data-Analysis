@@ -19,7 +19,7 @@ The goal is simple:
 
 ### 1. Stat Archetypes: Physical vs Special
 
-![Correlation Matrix](images/correlation_matrix_stats.png)
+<img src="images/correlation_matrix_stats.png" width="70%">
 
 One of the most interesting findings is the clear separation between **physical** and **special** stat distributions.
 
@@ -34,7 +34,7 @@ This reveals a strong underlying structure in how Pokémon are balanced.
 
 ### 2. Legendary vs Common Pokémon
 
-<img src="images/legendary_vs_common_stats.png" width="75%">
+<img src="images/legendary_vs_common_stats.png" width="70%">
 
 As expected, legendary Pokémon outperform common ones on average — but not by an overwhelming margin.
 
@@ -49,7 +49,7 @@ This suggests balance considerations rather than pure power inflation.
 
 ### 3. Power vs Weight
 
-![Power vs Weight](images/power_vs_weight.png)
+<img src="images/power_vs_weight.png" width="70%">
 
 Heavier Pokémon tend to be stronger — but not always.
 
