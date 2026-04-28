@@ -19,7 +19,7 @@ The goal is simple:
 
 ### 1. Stat Archetypes: Physical vs Special
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](images/correlation_matrix_stats.png)
 
 One of the most interesting findings is the clear separation between **physical** and **special** stat distributions.
 
@@ -34,7 +34,7 @@ This reveals a strong underlying structure in how Pokémon are balanced.
 
 ### 2. Legendary vs Common Pokémon
 
-![Legendary vs Common](images/legendary_vs_common.png)
+![Legendary vs Common](images/legendary_vs_common_stats.png)
 
 As expected, legendary Pokémon outperform common ones on average — but not by an overwhelming margin.
 
