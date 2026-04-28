@@ -34,7 +34,7 @@ This reveals a strong underlying structure in how Pokémon are balanced.
 
 ### 2. Legendary vs Common Pokémon
 
-<img src="images/legendary_vs_common_stats.png" width="50%">
+<img src="images/legendary_vs_common_stats.png" width="75%">
 
 As expected, legendary Pokémon outperform common ones on average — but not by an overwhelming margin.
 
